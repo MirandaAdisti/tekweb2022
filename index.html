@@ -48,7 +48,15 @@
     <div class="jumbotron text-center">
       <img src="./img/Me.jpg" alt="Me" width="200" class="rounded-circle img-thumbnail" />
       <h1 class="display-4">Miranda Diah Adisti</h1>
-      <p class="lead">Student of Information System at Ahmad Dahlan university</p>
+      <p class="lead">Student of Information System at Ahmad Dahlan University</p>
+      <div class="sosmed">
+        <a href="https://www.instagram.com/mirandadisti_/">
+          <img src="https://freepngimg.com/download/logo/69800-logo-computer-instagram-icons-free-clipart-hq.png" alt="instagram" style="width:30px;height:30x;">
+          </a>
+          <a href="https://id.linkedin.com/in/miranda-diah-adisti-980271208">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linkedin_original_logo_icon_146435.png" alt="" style="width:30px;height:30px;">
+            </a>
+      </div>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
           fill="#FCDEC0"
@@ -144,7 +152,7 @@
         <div class="row" id="app">
           <div class="col-4" v-for="data in articles">
             <div class="card">
-              <img :src="data.Thumbnail" class="card-img-top" alt="SD" />
+              <img :src="data.Thumbnail" class="card-img-top" alt="SD"/>
               <div class="card-body">
                 <h5 class="card-title">{{ data.Title }}</h5>
                  <h7 class="card-text">{{ data.Author }}</h6>

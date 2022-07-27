@@ -24,5 +24,14 @@
     "Thumbnail": "https://raw.githubusercontent.com/MirandaAdisti/tekweb2022/main/img/Novel.jpg",
     "Content": "Novel ini mengisahkan percintaan dan perjuangan hidup seorang perempuan bernama Lail. Ketika Lail baru berusia 13 tahun, dirinya harus menjadi seorang anak yatim piatu. Di hari pertama ia sekolah, ada sebuah bencana gunung meletus dan gempa dahsyat sehingga menghancurkan kota di mana ia menetap, bahkan merenggut nyawa ibu serta ayah Lail.",
     "markdown": "article2.md"
+  },
+
+  {
+    "ID": "4",
+    "Title": "Tumpeng 9 Coffee and Bakery",
+    "Author": "Miranda Adisti",
+    "Thumbnail": "https://raw.githubusercontent.com/MirandaAdisti/tekweb2022/main/img/Tumpeng%209.jpg",
+    "Content": "Tumpeng 9 Coffee and Bakery",
+    "markdown": "article3.md"
   }
 ]
