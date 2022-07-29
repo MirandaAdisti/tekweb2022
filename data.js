@@ -1,3 +1,4 @@
+let apiUrl = "https://myapi.mirandadisti.my.id/index.php/articles"
 let app = Vue.createApp({
   data() {
     return {
@@ -8,7 +9,7 @@ let app = Vue.createApp({
   methods: {
     getArticleData() {
       axios
-        .get("https://raw.githubusercontent.com/MirandaAdisti/tekweb2022/main/data.json")
+        .get(apiUrl + "articles/1")
         .then((res) => {
           this.articles = res.data;
           console.log(res.data);
