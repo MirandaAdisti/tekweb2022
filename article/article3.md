@@ -27,4 +27,4 @@ Menyediakan tempat nongkrong untuk anak remaja yang di lengkapi dengan hiburan b
 
 ## Gambar Proses Bisnis
 
-<img scr ="https://raw.githubusercontent.com/MirandaAdisti/tekweb2022/main/img/Perbaikan%20proses.drawio.png">
+![Proses Bisnis](https://raw.githubusercontent.com/MirandaAdisti/tekweb2022/main/img/Perbaikan%20proses.drawio.png)
